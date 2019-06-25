@@ -80,7 +80,7 @@ B. PDM shall maintain log entries for a minimum of 7 years from the date of acce
 
 ## IX. PHR Security and Restrictions on Use
 
-A. PDM shall not use or further disclose Patient’s PHR, either in whole or in part, other than as permitted by this Agreement and as authorized by Patient.
+A. PDM shall not use or further disclose Patient’s PHR, either in whole or in part, other than as permitted by this Agreement and as authorized by Patient. *[Consider adding provisions related to law enforcement/access via subpoena and/or court order.]*
 
 B. PDM shall use appropriate safeguards to prevent any use or disclosure of Patient’s PHR, either in whole or in part, other than as specified in this Agreement and as authorized by Patient. To the extent that PDM receives, maintains, or transmits PHR, PDM shall use appropriate administrative, physical, and technical safeguards that comply with those required by the HIPAA Security Rule and that reasonably and appropriately protect the confidentiality, integrity, and availability of PHR, regardless of whether PDM is a Covered Entity as defined by HIPAA.
 
