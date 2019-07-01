@@ -1,4 +1,4 @@
-# Patient Data Use Agreement (DRAFT model document for Review & Discussion purposes)
+# Patient Data Use Agreement (DRAFT Model Document for Review & Discussion Purposes)
 
 ## PREAMBLE:
 
@@ -10,7 +10,7 @@ This **Patient Data Use Agreement** (PDUA or Agreement), by and between ________
 
 ## II. Background and Authority
 
-The Health Insurance Portability and Accountability Act of 1996 (HIPAA), as amended, provides individuals with a right of access to inspect and obtain a copy of protected health information from their medical records maintained by their healthcare providers [see 45 CFR 164.524(a)(1)]. Under this right of access, pursuant to 45 CFR 164.524(c)(3)(iii), individuals can request, in a signed writing identifying where and to whom, that their personal health information be provided to third parties on the patients’ behalf.[1] Using this right of access, an individual can use a third-party patient data manager to aggregate a complete, longitudinal record and maintain it in a way to provide secure access to accurate, reliable personal health data.
+The Health Insurance Portability and Accountability Act of 1996 (HIPAA), as amended, provides individuals with a right of access to inspect and obtain a copy of protected health information from their medical records maintained by their healthcare providers [see 45 CFR 164.524(a)(1)]. Under this right of access, pursuant to 45 CFR 164.524(c)(3)(iii), individuals can request, in a signed writing identifying where and to whom, that their personal health information be provided to third parties on the patients’ behalf.[^1] Using this right of access, an individual can use a third-party patient data manager to aggregate a complete, longitudinal record and maintain it in a way to provide secure access to accurate, reliable personal health data.
 
 Patient wishes to collect personal health data from a variety of providers and sources, including non-clinical sources and patient-generated sources; store that data in one complete, longitudinal record; and exert control over the sharing of and access to such health information.
 
@@ -132,7 +132,7 @@ ______________________________________ _____________________
 XXXX, on behalf of PDM, Date
 
 
-[1.] The HHS Office of Civil Rights provides further interpretive guidance regarding the use of the right of access to transmit PHI to third parties designated by the individual, including the use of an example of transferring PHI to an individual’s mobile app on a smartphone, (FAQ #2036, https://www.hhs.gov/hipaa/for-professionals/faq/2036/can-an-individual-through-the-hipaa-right/index.html), and provides further guidance that such requests may be provided on a standing basis to avoid having to repeat requests for access each time PHI is updated (FAQ #2070, https://www.hhs.gov/hipaa/for-professionals/faq/2070/may-a-covered-entity-accept-standing-requests/index.html).
+[^1]: The HHS Office of Civil Rights provides further interpretive guidance regarding the use of the right of access to transmit PHI to third parties designated by the individual, including the use of an example of transferring PHI to an individual’s mobile app on a smartphone, (FAQ #2036, https://www.hhs.gov/hipaa/for-professionals/faq/2036/can-an-individual-through-the-hipaa-right/index.html), and provides further guidance that such requests may be provided on a standing basis to avoid having to repeat requests for access each time PHI is updated (FAQ #2070, https://www.hhs.gov/hipaa/for-professionals/faq/2070/may-a-covered-entity-accept-standing-requests/index.html).
 
 ---
 Approved for Public Release; Distribution Unlimited. Case Number 18-1973. © 2019 The MITRE  Corporation. All rights reserved.
