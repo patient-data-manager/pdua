@@ -32,5 +32,3 @@ Once you've submitted a pull request, the PDUA team can review the work under th
 
 ### Markdown
 These files are written in the Markdown syntax. You can reference this [guide](https://www.markdownguide.org/basic-syntax/) for formatting (ex. Bold, Footnotes, Lists, Links).
-
-## Questions
