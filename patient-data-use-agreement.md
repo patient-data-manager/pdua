@@ -16,7 +16,7 @@ Patient wishes to collect personal health data from a variety of providers and s
 
 PDM has the capacity to aggregate, maintain, and secure personal health data in a way that enables it to be: regularly updated; protected; compartmentalized; shared in whole or in part with the Patient’s authorization; and maintained free of unauthorized changes or interference that could render the data untrustworthy.
 
-Patient seeks to exert the right of access provided to Patient by 45 CFR § 164.524 and related HHS Office of Civil Rights guidance to regularly access personal health information maintained by healthcare providers in designated record sets and to direct providers to transmit Patient’s personal health information to PDM on Patient’s behalf.
+Patient seeks to exert the right of access provided to Patient by 45 CFR § 164.524 and related HHS Office for Civil Rights guidance to regularly access personal health information maintained by healthcare providers in designated record sets and to direct providers to transmit Patient’s personal health information to PDM on Patient’s behalf.
 
 As Patient wishes to have a complete, longitudinal health record under his or her full control and maintained on his or her behalf by PDM, Patient and PDM agree to the following terms:
 
@@ -90,7 +90,7 @@ D. Patient shall not share personal login and authentication information for PHR
 
 ## X. Mobile Access to PHR
 
-A. The PHR is an aggregation of Patient’s digital health data from various sources, both clinical and non-clinical. PDM may provide various means of PHR access to the Patient, including through mobile applications accessible on a smartphone, smart speaker, or other such electronic device. In such an instance, PDM shall determine whether any such applications meet the Food & Drug Administration’s (FDA) definition of a mobile medical application and shall adhere to any additional requirements and guidelines set out by the FDA.
+A. The PHR is an aggregation of Patient’s digital health data from various sources, both clinical and non-clinical. PDM may provide various means of PHR access to the Patient, including through mobile applications accessible on a smartphone, smart speaker, or other such electronic device. In such an instance, PDM shall determine whether any such applications meet the Food and Drug Administration’s (FDA) definition of a mobile medical application and shall adhere to any additional requirements and guidelines set out by the FDA.
 
 ## XI. Independence From Provider Medical Records
 
@@ -132,7 +132,7 @@ ______________________________________ _____________________
 XXXX, on behalf of PDM, Date
 
 
-[^1]: The HHS Office of Civil Rights provides further interpretive guidance regarding the use of the right of access to transmit PHI to third parties designated by the individual, including the use of an example of transferring PHI to an individual’s mobile app on a smartphone, (FAQ #2036, https://www.hhs.gov/hipaa/for-professionals/faq/2036/can-an-individual-through-the-hipaa-right/index.html), and provides further guidance that such requests may be provided on a standing basis to avoid having to repeat requests for access each time PHI is updated (FAQ #2070, https://www.hhs.gov/hipaa/for-professionals/faq/2070/may-a-covered-entity-accept-standing-requests/index.html).
+[^1]: The HHS Office for Civil Rights provides further interpretive guidance regarding the use of the right of access to transmit PHI to third parties designated by the individual, including the use of an example of transferring PHI to an individual’s mobile app on a smartphone, (FAQ #2036, https://www.hhs.gov/hipaa/for-professionals/faq/2036/can-an-individual-through-the-hipaa-right/index.html), and provides further guidance that such requests may be provided on a standing basis to avoid having to repeat requests for access each time PHI is updated (FAQ #2070, https://www.hhs.gov/hipaa/for-professionals/faq/2070/may-a-covered-entity-accept-standing-requests/index.html).
 
 ---
 Approved for Public Release; Distribution Unlimited. Case Number 18-1973. © 2019 The MITRE  Corporation. All rights reserved.
