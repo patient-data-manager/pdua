@@ -1,5 +1,50 @@
+PROPOSED PLAIN LANGUAGE MODEL PATIENT DATA USE AGREEMENT
+(Example Language for Adaptation by Data Aggregators Acting Through Mobile Applications Offering Services to Patients)
+
+Patient/You __________________ [your name] wants to use the services of Application (App) _____________ [web application/mobile application] to collect and manage your personal health information. This requires you and App to agree on each other’s rights and responsibilities. In some cases, you can choose how you want to handle certain things like the sharing of your data. What you and App agree to and your decisions are documented in this Agreement.
+
 1. Collecting Health Information.
 •	App will collect and display to you the personal health data it receives from your health care providers. 
 •	App can only receive your personal health information if you tell your health care providers that you want your information sent to App. App will help you ask your providers to do this if you need help.
 •	Your providers have to send your health information to App if you ask. You may have to follow different instructions from different providers so that they are sure that you want your information to be sent to App. This is to protect your privacy.
 •	If your providers have the technology to do so, you can ask them to send updated health information to App regularly, as soon as information changes or is updated. [Include link to authorization/standing data release here]
+
+2. Collecting Other Information.
+•	App can also collect and display other information, like information from a health tracker or your grocery receipts. This information can give you a fuller picture of your wellness. You can turn on and off what other information App collects here [Add link to this description here].
+
+3. Ownership of Information Collected in App.
+•	The information that is collected in App belongs to you. 
+•	You can add notes to your information. Adding notes to your information in App does not add notes to your information anywhere else.  If you need to make a correction to your health record at your provider, you have to follow your provider’s process to do so.  App will also keep your notes clear so that a doctor looking at information in App will understand the difference between what came from providers and your notes.
+•	You can delete your information or parts of your information at any time. App will not keep a copy in case you change your mind so you should be very sure you want to delete something before you do it.
+•	You can download a copy of your information at any time.
+•	No one, including App, can do anything with your information or see it without your permission.
+
+4. Sharing Information in App
+•	You can share the information with anyone you choose and you can stop sharing with anybody at any time. If you tell App to stop sharing information with someone App will turn off sharing right away. To turn sharing on and off, go here. [Add link to this page/functionality here]
+•	App cannot take back information that you have shared that has been seen or used.
+•	App cannot promise that the people you share your data with will look at it.
+•	You can tell App that you want people to be able to see your information in an emergency. You can update your emergency settings here. [Add link to emergency functionality here]
+•	App will keep a record of who you have shared information with and who has viewed your information.
+•	Some services that collect data for patients use pieces of patient information in research. This is called deidentified, aggregated data. App will ask you if you want to allow App to use your information for these purposes. App might offer to share some of the money it earns from using your information with you. There is a risk that your information could be compared to other information and you could be identified. You can say no. [If App does this, insert line that says “To learn more about this, click here”]
+•	App will not share your information without your permission. There may be times in which App will not have a choice, like if a court or law enforcement gives App paperwork that tells App it has to give them your information. App will tell you if this happens. 
+
+5. Protection of Your Information in App
+•	App will protect your information from being wrongfully seen or shared. For more information on the different ways App protects your data, click here [Add link to longer description of security, encryption, etc. here].
+•	App will follow the requirements of the strictest rules that protect health data, including laws and rules in your state.
+•	You will keep your information safe by not sharing your login information. If you want help managing your information in App, App provides a way for you to name someone to help you. You can name this person here [Add link to page that provides patient with choice to name a proxy/agent] and App will make sure that person has his or her own login information.
+
+6. Protection of App
+•	You promise not to do anything to put App at risk or to put App’s customers at risk. This means you will not try to break App, try to access other customers’ information, or behave in ways that are against the law or against this agreement. If you do, App can end your agreement right away and, depending upon what happened, can file a report with law enforcement.
+•	You also promise not to steal App’s software designs or the designs of the tools it uses to collect and display your data to you. 
+
+7. If Something Goes Wrong
+•	If you or App do not follow this agreement, you or App can end the agreement.
+•	You have the right to ask App to make things right if you think App has not followed the terms of this agreement. You can go to court if you think that is the best way to make things right. 
+•	App can also ask you to make things right or go to court if you have used App in ways that puts App or App’s other customers at risk. 
+•	If your information is accessed without your permission, you can ask App to make it right and you can also go to state and federal agencies for help. For more information click here [Add link to complaint/breach notification to App plus links to HHS, FTC, and relevant state/local websites such as the state Attorney General].
+
+8. Ending the Agreement
+•	You can end this agreement at any time. To end it, click here. [Add link to App account termination/cancellation request]
+•	If you end the agreement, App will turn off information coming from your health care providers within 24 hours. You will have 30 days to download a copy of your data or transfer it to another application, and the App will completely delete your data. App cannot undo a delete.
+•	App can also end this agreement. If App ends the agreement, it will give you 60 days’ notice and will ask you to confirm you received the notice. If App is ending the agreement because you have broken the agreement, it may stop your access to App. If App ends the agreement, it will hold a copy of your information for download for 60 days and then your information will be deleted.
+•	If you die, App can delete your information, transfer it to someone you name, or donate it to research. You can make this choice here [Add link to settings page that enables disposition of data/access to account]. At the link, App will also tell you how to let your friends and family know that they should notify App of your death.
