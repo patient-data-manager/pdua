@@ -4,6 +4,8 @@ This repository contains the current draft of the Patient Data Use Agreement (PD
 
 This document is a draft model agreement. It is intended to establish a relationship between an individual and a data management service entity for the purposes of managing the individual’s complete, longitudinal health data on the individual’s behalf and provides complete control over the aggregated copy of the patient’s data to the patient.
 
+Views, opinions, comments, recommendations, conclusions or other statements contained in this document do not, and are not intended to, constitute legal advice or opinion, are not expressed by counsel for MITRE and do not represent the views of MITRE's Office of General Counsel. Instead, all information, content, and materials available in this document are for general informational purposes only. Readers of this document should contact their attorney to obtain advice with respect to any particular legal matter. No reader or user of this document should act or refrain from acting on the basis of information in this site without first seeking legal advie from counsel in the relevant jurisdiction. Only your individual attorney can provide assurances that the information contained herein, and your interpretation of it, is applicable or appropriate to your particular situation. Use of, or access to, this document does not create an attorney-client relationship between the reader or user and website authors or contributors and their respective employers.
+
 ## Examples
 [Full version](https://github.com/patient-data-manager/pdua/blob/master/patient-data-use-agreement.md) of the Patient Data Use Agreement.
 
